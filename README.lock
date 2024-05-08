@@ -1,0 +1,5 @@
+A simple program that uses the api, Twillio and openweathermap to check if the weather is rainy throughout the day. If it will rain later on in the day, the program will use twillio to send an message to my phone to tell me to bring an umbrella
+
+APIS USED
+Twillio: https://www.twilio.com/docs
+openweathermap: https://openweathermap.org/api
